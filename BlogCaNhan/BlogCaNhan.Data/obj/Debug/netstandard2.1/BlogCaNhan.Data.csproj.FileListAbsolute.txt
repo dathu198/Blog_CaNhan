@@ -1,0 +1,12 @@
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.deps.json
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.dll
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csprojAssemblyReference.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.AssemblyInfoInputs.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.AssemblyInfo.cs
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.pdb
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.dll
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.pdb
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csproj.CoreCompileInputs.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csproj.CopyComplete
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.dll
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.pdb

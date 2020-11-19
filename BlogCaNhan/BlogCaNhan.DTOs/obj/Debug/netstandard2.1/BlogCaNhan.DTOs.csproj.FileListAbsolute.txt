@@ -1,0 +1,9 @@
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.deps.json
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.dll
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.AssemblyInfoInputs.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.AssemblyInfo.cs
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.csprojAssemblyReference.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.pdb
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.csproj.CoreCompileInputs.cache
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.dll
+D:\Blog_CaNhan\BlogCaNhan\BlogCaNhan.DTOs\obj\Debug\netstandard2.1\BlogCaNhan.DTOs.pdb
